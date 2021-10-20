@@ -9,7 +9,7 @@
         <img src='https://github-readme-stats.vercel.app/api?line_height=27&username=GTX2000&show_icons=true&theme=gruvbox'/>
     </p>
     <p align='center'>
-        <img src='https://github-readme-stats.vercel.app/api/wakatime?username=QuantumBolt&theme=gruvbox'/>
+        <img src='https://github-readme-stats.vercel.app/api/wakatime?username=QuantumBolt&theme=solarized-light'/>
     </p>
     <p align='center'>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GTX2000&exclude_repo=GTX2000,GTX2000.github.io&layout=compact&theme=gruvbox"/>
