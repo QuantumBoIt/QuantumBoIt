@@ -2,7 +2,7 @@
 
 :clock9:
 
-
+[![wakatime](https://wakatime.com/badge/user/beb525c8-505c-4510-9d1e-e2da008097c2.svg)](https://wakatime.com/@beb525c8-505c-4510-9d1e-e2da008097c2)
 
 <div align='center'>
     <p align='center'>
