@@ -6,13 +6,13 @@
 
 <div align='center'>
     <p align='center'>
-        <img src='https://github-readme-stats.vercel.app/api?line_height=27&username=QuantumBolt&show_icons=true&theme=gruvbox'/>
+        <img src='https://github-readme-stats.vercel.app/api?line_height=27&username=QuantumBoIt&show_icons=true&theme=gruvbox'/>
     </p>
     <p align='center'>
-        <img src='https://github-readme-stats.vercel.app/api/wakatime?username=QuantumBolt&theme=gruvbox'/>
+        <img src='https://github-readme-stats.vercel.app/api/wakatime?username=QuantumBoIt&theme=gruvbox'/>
     </p>
     <p align='center'>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumBolt&exclude_repo=QuantumBolt,QuantumBolt.github.io&layout=compact&theme=gruvbox"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumBoIt&exclude_repo=QuantumBoIt,QuantumBoIt.github.io&layout=compact&theme=gruvbox"/>
     </p>
 </div>
 
@@ -23,7 +23,7 @@
 
 
 <!--
-**QuantumBolt/QuantumBolt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**QuantumBoIt/QuantumBoIt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
