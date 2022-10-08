@@ -9,7 +9,7 @@
         <img src='https://github-readme-stats.vercel.app/api?line_height=27&username=QuantumBoIt&show_icons=true&theme=gruvbox'/>
     </p>
     <p align='center'>
-        <img src='https://github-readme-stats.vercel.app/api/wakatime?username=QuantumBoIt&theme=gruvbox'/>
+        <img src='https://github-readme-stats.vercel.app/api/wakatime?username=QuantumBolt&theme=gruvbox'/>
     </p>
     <p align='center'>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumBoIt&exclude_repo=QuantumBoIt,QuantumBoIt.github.io&layout=compact&theme=gruvbox"/>
