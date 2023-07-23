@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-:clock9:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QuantumBoIt/QuantumBoIt/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/QuantumBoIt/QuantumBoIt/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/QuantumBoIt/QuantumBoIt/output/github-contribution-grid-snake.svg">
+</picture>
 
 [![wakatime](https://wakatime.com/badge/user/beb525c8-505c-4510-9d1e-e2da008097c2.svg)](https://wakatime.com/@beb525c8-505c-4510-9d1e-e2da008097c2)
 
@@ -31,8 +36,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QuantumBoIt/QuantumBoIt/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/QuantumBoIt/QuantumBoIt/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/QuantumBoIt/QuantumBoIt/output/github-contribution-grid-snake.svg">
-</picture>
